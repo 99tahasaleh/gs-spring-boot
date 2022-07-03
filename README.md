@@ -38,7 +38,7 @@ Run the image from DockerHub
   docker pull salehtaha/gs-boot:latest
   docker run -d -p 8080:8080 salehtaha/gs-boot:latest
 ```
-![image](https://user-images.githubusercontent.com/57872327/177011593-f25936dd-ea31-469a-90ae-7de7cfa078d6.png)
+![image](dockerhub1.png)
 
 
 
